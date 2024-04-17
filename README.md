@@ -18,7 +18,7 @@ It then converts the temperature to the other two units and displays the convert
 
 ## Example
 
-If the user enters a temperature of 25 degrees Celsius, the program will convert it to Fahrenheit and Kelvin, and present the converted values as outputs( 89.60 degrees Fahrenheit and 305.15 Kelvin.).
+If the user enters a temperature of 32 degrees Celsius, the program will convert it to Fahrenheit and Kelvin, and present the converted values as outputs( 89.60 degrees Fahrenheit and 305.15 Kelvin.).
 
 ## Note
 
